@@ -50,6 +50,7 @@ Please enjoy!
 * [MatPlotLib](https://github.com/matplotlib/matplotlib)
 * [SciKit-Learn](https://github.com/scikit-learn/scikit-learn)
 
+
 ## License
 
 The content of this project itself and the source code used to format and display that content are both licensed under the MIT license.
@@ -60,4 +61,4 @@ The content of this project itself and the source code used to format and displa
     <a href="https://github.com/naereen/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/></a>
 </p>
 
-Maintained by **Aakash "Kash" Sudhakar** (2019). 
+<center>Maintained by **Aakash "Kash" Sudhakar** (2019).</center>
