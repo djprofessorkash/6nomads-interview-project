@@ -59,6 +59,5 @@ The content of this project itself and the source code used to format and displa
 
 <p align="center">
     <a href="https://github.com/naereen/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/></a>
+    <p>Maintained by <strong>Aakash "Kash" Sudhakar</strong> (2019).</p>
 </p>
-
-<center>Maintained by **Aakash "Kash" Sudhakar** (2019).</center>
