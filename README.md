@@ -49,6 +49,7 @@ Please enjoy!
 * [Pandas](https://github.com/pandas-dev/pandas)
 * [MatPlotLib](https://github.com/matplotlib/matplotlib)
 * [SciKit-Learn](https://github.com/scikit-learn/scikit-learn)
+* ~~Imbalanced-Learn~~
 
 
 ## License
