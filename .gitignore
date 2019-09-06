@@ -1,4 +1,11 @@
+# Miscellaneous Items and Garbage
 .ipynb_checkpoints/
 */.ipynb_checkpoints/
+.DS_Store
+*/.DS_Store
+
+# Datasets (Ignoring for Security)
 data/
+
+# Processing Algorithms (Ignoring until Finalization)
 structures/d*.py
