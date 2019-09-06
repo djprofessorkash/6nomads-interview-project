@@ -4,6 +4,7 @@
 <a href="https://docs.python.org/3/index.html"><img src="https://img.shields.io/badge/python-3.6-blue.svg"/></a>
 <a href=""><img src="https://img.shields.io/github/last-commit/AakashSudhakar/6nomads-interview-project.svg?style=flat"/></a>
 <a href=""><img src="https://img.shields.io/github/repo-size/AakashSudhakar/6nomads-interview-project.svg?style=flat"/></a>
+<a href="https://github.com/AakashSudhakar"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/></a>
 </p>
 
 ---
@@ -16,7 +17,7 @@ My task is to run multi-class predictions off of given training and testing data
 
 To conserve data security, I have not included any of the datasets in my final submission of my repository. Instead, I have included a concise tree structure to depict my project hierarchy, including the organization of my data files. 
 
-Please enjoy!
+**Please enjoy!**
 
 ## Project Hierarchy
 
@@ -65,12 +66,8 @@ The content of this project itself and the source code used to format and displa
 ---
 
 <p align="center">
-    <a href="https://github.com/naereen/"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/></a>
+    <a href="https://en.wikipedia.org/wiki/Love"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/></a>
 </p>
 
-<p align="center">Maintained by <strong>Aakash "Kash" Sudhakar</strong> (2019).
-</p>
-
-<p align="center">
-<a href="https://linkedin.com/in/aakashsudhakar/"><img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"/>
+<p align="center">Maintained by <strong><a href="https://linkedin.com/in/aakashsudhakar">Aakash "Kash" Sudhakar</a></strong> (2019).
 </p>
