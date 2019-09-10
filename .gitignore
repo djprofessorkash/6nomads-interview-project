@@ -10,6 +10,9 @@ data/
 # Processing Algorithms (Ignoring until Finalization)
 structures/d*.py
 
+# C-Python Data Files
+structures/*.pyc
+
 # Jupyter Notebooks (Ignoring until Relevant Work Conductance)
 notebooks/02-intermediate-data-processing.ipynb
 notebooks/03-predictive-data-modeling.ipynb
