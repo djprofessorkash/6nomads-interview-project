@@ -14,5 +14,4 @@ structures/d*.py
 structures/*.pyc
 
 # Jupyter Notebooks (Ignoring until Relevant Work Conductance)
-notebooks/02-intermediate-data-processing.ipynb
 notebooks/03-predictive-data-modeling.ipynb
