@@ -8,7 +8,7 @@
 data/
 
 # Processing Algorithms (Ignoring until Finalization)
-structures/d*.py
+structures/dataset_processor.py
 
 # C-Python Data Files
 structures/*.pyc
