@@ -30,6 +30,7 @@ To conserve data security, I have not included any of the datasets in my final s
 │
 └───notebooks
 │   │   01-exploratory-data-analysis.ipynb
+│   │   02-intermediate-data-processing.ipynb
 │   │   ...
 │   
 └───structures
@@ -44,7 +45,8 @@ To conserve data security, I have not included any of the datasets in my final s
 │   │   │   test.csv
 │   │
 │   └───interim
-│   │   │   ...
+│   │   │   train_i.csv
+│   │   │   test_i.csv
 │   │
 │   └───processed
 │       │   ...
