@@ -31,7 +31,7 @@ To conserve data security, I have not included any of the datasets in my final s
 └───notebooks
 │   │   01-exploratory-data-analysis.ipynb
 │   │   02-intermediate-data-processing.ipynb
-│   │   03-comprehensive-data-prediction.ipynb
+│   │   03-predictive-data-modeling.ipynb
 │   
 └───structures
 │   │   custom_structures.py
