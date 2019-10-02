@@ -31,12 +31,12 @@ To conserve data security, I have not included any of the datasets in my final s
 └───notebooks
 │   │   01-exploratory-data-analysis.ipynb
 │   │   02-intermediate-data-processing.ipynb
-│   │   ...
+│   │   03-comprehensive-data-prediction.ipynb
 │   
 └───structures
 │   │   custom_structures.py
 │   │   dataset_preprocessor.py
-│   │   ...
+│   │   dataset_processor.py
 │   
 └───data
 │   │
@@ -49,7 +49,26 @@ To conserve data security, I have not included any of the datasets in my final s
 │   │   │   test_i.csv
 │   │
 │   └───processed
-│       │   ...
+│       │   
+│       └───X
+│       │   │
+│       │   └───processed
+│       │   │   │   train_pXp.csv
+│       │   │   │   test_pXp.csv
+│       │   │
+│       │   └───scaled
+│       │   │   │   train_pXs.csv
+│       │   │   │   test_pXs.csv
+│       │   │
+│       │   └───reduced
+│       │   │   │   train_pXr.csv
+│       │   │   │   test_pXr.csv
+│       │
+│       └───y
+│       │   │
+│       │   └───processed
+│       │       │   train_pyp.csv
+│       │       │   test_pyp.csv
 ```
 
 ## Dependencies
