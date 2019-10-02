@@ -71,5 +71,5 @@ The content of this project itself and the source code used to format and displa
     <a href="https://en.wikipedia.org/wiki/Love"><img src="http://ForTheBadge.com/images/badges/built-with-love.svg"/></a>
 </p>
 
-<p align="center">Maintained by <strong><a href="https://linkedin.com/in/aakashsudhakar">Aakash "Kash" Sudhakar</a></strong> (2019).
+<p align="center">Constructed and documented by <strong><a href="https://linkedin.com/in/aakashsudhakar">Aakash "Kash" Sudhakar</a></strong> (2019).
 </p>
