@@ -7,11 +7,5 @@
 # Datasets (Ignoring for Security)
 data/
 
-# Processing Algorithms (Ignoring until Finalization)
-structures/dataset_processor.py
-
 # C-Python Data Files
 structures/*.pyc
-
-# Jupyter Notebooks (Ignoring until Relevant Work Conductance)
-notebooks/03-predictive-data-modeling.ipynb
